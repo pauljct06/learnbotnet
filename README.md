@@ -1,2 +1,6 @@
 # learnbotnet
-a learning repor ;)
+a learning repo ;)
+.
+.
+.
+Thank you for trying it out :)
